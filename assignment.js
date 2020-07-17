@@ -54,7 +54,7 @@ function brickCalculator(floor){
     return brick;
 }
 
-// function to find tiny names among an array of friends name
+// function to find tiny names from an array of friends name
 
 function tinyFriend(friends){
     for(i=0; i<friends.length; i++){
